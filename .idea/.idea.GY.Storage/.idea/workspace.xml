@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8626fd4-5959-4a5e-adcd-9aa33248d604" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GY.Storage/Storage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Storage/Config.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Storage/DataBaseHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Storage/CommandStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Storage/StorageComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GY.Storage/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GY.Storage/Class1.cs" />
+        <option value="$PROJECT_DIR$/GY.Storage/StorageObject.cs" />
+        <option value="$PROJECT_DIR$/GY.Storage/StorageInspectorComponent.cs" />
+        <option value="$PROJECT_DIR$/GY.Storage/CommandInspectStorage.cs" />
+        <option value="$PROJECT_DIR$/GY.Storage/CommandClearStorage.cs" />
+        <option value="$PROJECT_DIR$/GY.Storage/StorageInspectComponent.cs" />
+        <option value="$PROJECT_DIR$/GY.Storage/Utils.cs" />
+        <option value="$PROJECT_DIR$/GY.Storage/Config.cs" />
+        <option value="$PROJECT_DIR$/GY.Storage/Storage.cs" />
+        <option value="$PROJECT_DIR$/GY.Storage/DataBaseHelper.cs" />
+        <option value="$PROJECT_DIR$/GY.Storage/StorageComponent.cs" />
+        <option value="$PROJECT_DIR$/GY.Storage/CommandStorage.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XAuf7756aOOUJ8NdUXsgby3gr7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8626fd4-5959-4a5e-adcd-9aa33248d604" name="Default Changelist" comment="" />
+      <created>1580501320977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580501320977</updated>
+      <workItem from="1580501322219" duration="6955000" />
+      <workItem from="1580545922826" duration="9073000" />
+      <workItem from="1580555773238" duration="12389000" />
+      <workItem from="1580571247253" duration="12894000" />
+      <workItem from="1580633505388" duration="8830000" />
+      <workItem from="1580643356623" duration="3145000" />
+      <workItem from="1580647833262" duration="3575000" />
+      <workItem from="1580713877464" duration="1331000" />
+      <workItem from="1581006140709" duration="770000" />
+      <workItem from="1582455711733" duration="812000" />
+      <workItem from="1582482610778" duration="1666000" />
+      <workItem from="1582840149659" duration="69000" />
+      <workItem from="1591904325702" duration="224000" />
+      <workItem from="1603040030798" duration="1935000" />
+      <workItem from="1603050943812" duration="2587000" />
+      <workItem from="1607174398478" duration="158000" />
+      <workItem from="1608368727592" duration="487000" />
+      <workItem from="1608472003682" duration="449000" />
+      <workItem from="1608876348599" duration="425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
