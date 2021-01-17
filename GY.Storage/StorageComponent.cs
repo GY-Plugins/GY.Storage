@@ -17,7 +17,7 @@ namespace GY.Storage
         protected override void Load()
         {
             _state = DataBaseHelper.GetState(Player.CSteamID).State;
-            _storageTransform = BarricadeTool.getBarricade(Player.Player.transform, 100, Player.Position, default, 328, _state);
+            _storageTransform = BarricadeTool.getBarricade(null, 100, Player.Position, default, 328, _state);
             _storage = _storageTransform.GetComponent<InteractableStorage>();
         }
         
